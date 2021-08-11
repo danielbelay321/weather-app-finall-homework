@@ -1,1 +1,1 @@
-# weather-app-finall-homework
+# weather-app-final-homework
